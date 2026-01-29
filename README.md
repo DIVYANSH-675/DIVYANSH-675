@@ -1,82 +1,114 @@
+<!-- Master Head -->
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Divyansh+Gupta;AI%2FML+Engineer;Generative+AI+Researcher;Computer+Science+%26+Engineering+Undergrad" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Divyansh%20Gupta&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Researcher%20%7C%20CSE%20Undergrad&descSize=20&descAlign=50&descAlignY=65" alt="Header" width="100%" />
+</div>
 
-  <p align="center">
-    <a href="https://DIVYANSH-675.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=react" alt="Website"></a>
-    <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="mailto:divyanshgupta0704@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+<div align="center">
   
-  <br/>
+  <!-- Social Links -->
+  <a href="https://DIVYANSH-675.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:divyanshgupta0704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DIVYANSH-675">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-  <h3>🤖 About Me</h3>
-  <p align="center">
-    I am a final-year <b>Computer Science and Engineering</b> undergraduate at <b>RGIPT</b> from India. <br/>
-    My expertise lies in <b>Deep Learning, Generative AI, and Computer Vision</b>. <br/>
-    I love building intelligent agents, fine-tuning LLMs for specialized domains, and solving complex problems using mathematical modeling.
+  <br />
+  <br />
+
+  <!-- About Me -->
+  <h3>👨‍💻 About Me</h3>
+  <p width="80%">
+    I am a final-year <b>Computer Science & Engineering</b> undergraduate at <b>RGIPT</b>.<br/>
+    Specializing in <b>Generative AI, Deep Learning, and Large Language Models</b>.<br/> 
+    I build scalable AI agents and meaningful problem-solving systems.
   </p>
 
-  <br/>
+  <br />
 
-  <h3>🧠 Tech Stack & Skills</h3>
-  <p align="center">
-    <b>Languages</b><br/>
-    <img src="https://skillicons.dev/icons?i=python,cpp,sql,js&perline=6" alt="Languages" />
-    <br/><br/>
-    <b>AI / ML Frameworks</b><br/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=6" alt="AI Frameworks" />
-    <br/><br/>
-    <b>Tools & Deployment</b><br/>
-    <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman,react&perline=6" alt="Tools" />
-  </p>
-
-  <br/>
-
-  <h3>🔥 Featured AI/ML Projects</h3>
-  <table align="center" width="100%">
+  <!-- Tech Stack -->
+  <h3>🛠️ Technical Arsenal</h3>
+  <table align="center" style="border: none;">
     <tr>
-      <td width="50%">
-        <h4 align="center"><a href="https://github.com/DIVYANSH-675/Auraspeak">🗣️ AuraSpeak (Audio-Visual AI)</a></h4>
-        <p align="center">A multimodal system converting hand gestures to speech for the hearing impaired. Achieved <b>95% accuracy</b> using Bi-LSTM and CNN architectures.</p>
-      </td>
-       <td width="50%">
-        <h4 align="center"><a href="https://github.com/DIVYANSH-675/LLM-Council">🤖 LLM Council (Multi-Agent)</a></h4>
-        <p align="center">An orchestration platform where <b>GPT-4, Claude, and Llama 2</b> debate users' queries to synthesize comprehensive, unbiased answers.</p>
-      </td>
+      <td align="center" style="border: none;"><b>Languages</b></td>
+      <td align="center" style="border: none;"><b>AI / ML Stack</b></td>
+      <td align="center" style="border: none;"><b>Dev Tools</b></td>
     </tr>
     <tr>
-      <td width="50%">
-        <h4 align="center"><a href="https://github.com/DIVYANSH-675/fomc-gpt2-btp2">📈 FOMC GPT-2 (FinNLP)</a></h4>
-        <p align="center">Fine-tuned <b>GPT-2</b> on 12 years of Federal Reserve data to model and simulate economic policy language with state-of-the-art coherence.</p>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python,cpp,js,sql&perline=4" width="150" alt="Languages" />
       </td>
-      <td width="50%">
-        <h4 align="center"><a href="https://github.com/DIVYANSH-675/ais-ml-pipeline-detection">🚢 Maritime Anomaly Detection</a></h4>
-        <p align="center">Constructed a security system detecting AIS spoofing attacks with <b>77% accuracy</b> using geospatial telemetry data pipelines.</p>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&perline=3" width="180" alt="AI Stack" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman,react&perline=3" width="180" alt="Tools" />
       </td>
     </tr>
   </table>
 
-  <br/>
+  <br />
 
-  <h3>🏆 Achievements</h3>
-  <p align="center">
-    ✨ <b>Amazon ML Summer School</b> Qualified (2025)<br/>
-    🥇 <b>Winner</b>, IIT Mandi Hackathon (2023)<br/>
-    🥈 <b>Grand Finalist</b>, IIT Bombay Hackathon (2023)<br/>
-    🛡️ <b>Google Cybersecurity Professional</b> Certified
+  <!-- Projects -->
+  <h3>🚀 Featured Projects & Research</h3>
+  <table align="center" width="90%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <b>🗣️ AuraSpeak</b> <br/>
+        <a href="https://github.com/DIVYANSH-675/Auraspeak">
+          <img src="https://img.shields.io/badge/Audio--Visual_AI-Bi--LSTM-FF6B6B?style=flat-square" />
+        </a> <br/>
+        Converting hand gestures to speech for accessibility.<br/>Achieved <b>95% accuracy</b>.
+      </td>
+      <td width="50%" align="center" valign="top">
+         <b>🤖 LLM Council</b> <br/>
+         <a href="https://github.com/DIVYANSH-675/LLM-Council">
+          <img src="https://img.shields.io/badge/Multi--Agent-GPT4_%2F_Claude-4D96FF?style=flat-square" />
+        </a> <br/>
+        Platform where autonomous AI agents debate to eliminate bias.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+         <br/>
+         <b>📈 FOMC GPT-2</b> <br/>
+         <a href="https://github.com/DIVYANSH-675/fomc-gpt2-btp2">
+          <img src="https://img.shields.io/badge/FinNLP-Domain_Adaptation-6BCB77?style=flat-square" />
+        </a> <br/>
+        Fine-tuned GPT-2 on Federal Reserve data for policy simulation.
+      </td>
+      <td width="50%" align="center" valign="top">
+         <br/>
+         <b>🚢 Maritime Security</b> <br/>
+         <a href="https://github.com/DIVYANSH-675/ais-ml-pipeline-detection">
+          <img src="https://img.shields.io/badge/Security-Geospatial_ML-FFD93D?style=flat-square" />
+        </a> <br/>
+        Detecting AIS spoofing anomaly attacks in real-time.
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- GitHub Stats -->
+  <h3>📊 Coding Analytics</h3>
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DIVYANSH-675&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYANSH-675&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=c9d1d9" />
   </p>
 
-  <br/>
+  <br />
 
-  <h3>📊 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DIVYANSH-675&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYANSH-675&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" alt="Languages" />
-  </p>
-  
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=" />
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" />
 
 </div>
