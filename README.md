@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Divyansh+Gupta;AI%2FML+Engineer;Generative+AI+Researcher;Mathematics+%26+Computing+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Divyansh+Gupta;AI%2FML+Engineer;Generative+AI+Researcher;Computer+Science+%26+Engineering+Undergrad" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://DIVYANSH-675.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=react" alt="Website"></a>
@@ -12,7 +12,7 @@
 
   <h3>🤖 About Me</h3>
   <p align="center">
-    I am a final-year <b>Mathematics and Computing</b> undergraduate at <b>RGIPT</b> from India. <br/>
+    I am a final-year <b>Computer Science and Engineering</b> undergraduate at <b>RGIPT</b> from India. <br/>
     My expertise lies in <b>Deep Learning, Generative AI, and Computer Vision</b>. <br/>
     I love building intelligent agents, fine-tuning LLMs for specialized domains, and solving complex problems using mathematical modeling.
   </p>
