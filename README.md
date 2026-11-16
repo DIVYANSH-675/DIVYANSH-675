@@ -1,4 +1,4 @@
-<img src="assets/editorial/portrait-cover.png" width="100%" alt="Divyansh Gupta — Ideas into working code. AI experiments. Thoughtful software. An AI-generated editorial portrait based on my photo." />
+<img src="assets/editorial/cover.png" width="100%" alt="Divyansh Gupta — Ideas into working code. AI experiments. Thoughtful software. Warm editorial artwork with architectural paper forms." />
 
 <p align="center">
   <a href="https://DIVYANSH-675.github.io/">Portfolio ↗</a> &nbsp;&nbsp; · &nbsp;&nbsp;
@@ -94,4 +94,4 @@ A few other directions I’ve explored:
 
 I’d like to hear about it. **[Get in touch ↗](mailto:divyanshgupta0704@gmail.com)**
 
-<sub>Portrait and notebook artwork created with AI. Portrait based on my own photograph.</sub>
+<sub>Banner and notebook artwork created with AI.</sub>
