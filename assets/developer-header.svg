@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none">
+<title>Divyansh Gupta — machine learning and software</title>
+<desc>A dark code editor with Divyansh's name, technical focus, and an experiment-to-application diagram.</desc>
+<rect x="1" y="1" width="1198" height="458" rx="14" fill="#10151C" stroke="#303A46" stroke-width="2"/>
+<path d="M1 54H1199M1 418H1199" stroke="#303A46"/>
+<path d="M26 54H208" stroke="#B6E382" stroke-width="3"/>
+<g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="16">
+<text x="29" y="34" fill="#B6E382">&gt;_</text><text x="65" y="34" fill="#E4E9EF">divyansh.py</text>
+<text x="241" y="34" fill="#7E8C9B">experiments/</text><text x="420" y="34" fill="#7E8C9B">applications/</text>
+<text x="1075" y="34" fill="#A4B1BF">main</text><circle cx="1055" cy="28" r="4" fill="#B6E382"/>
+<text x="44" y="111" fill="#8494A5">01</text><text x="91" y="111" fill="#B6E382"># hello, i'm</text>
+<text x="44" y="190" fill="#8494A5">02</text>
+<text x="44" y="255" fill="#8494A5">03</text><text x="91" y="255" fill="#A7B4C2">Machine learning. Useful software.</text>
+<text x="44" y="320" fill="#8494A5">04</text><text x="91" y="320" fill="#D9AD80">Python</text><text x="165" y="320" fill="#6C7C8C"> / </text><text x="198" y="320" fill="#D9AD80">PyTorch</text><text x="284" y="320" fill="#6C7C8C"> / </text><text x="318" y="320" fill="#D9AD80">TypeScript</text>
+<text x="44" y="375" fill="#8494A5">05</text><text x="91" y="375" fill="#8494A5"># build → measure → understand → iterate</text>
+<text x="27" y="445" fill="#A4B1BF">~/DIVYANSH-675</text><text x="907" y="445" fill="#A4B1BF">research + engineering</text>
+</g>
+<text x="87" y="197" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Divyansh Gupta<tspan fill="#B6E382">.</tspan></text>
+<path d="M770 89V384" stroke="#303A46"/>
+<g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="15">
+<text x="815" y="111" fill="#8494A5">THE WORKFLOW</text>
+<path d="M836 162V336" stroke="#485A69" stroke-width="2"/>
+<circle cx="836" cy="163" r="7" fill="#10151C" stroke="#B6E382" stroke-width="2"/>
+<circle cx="836" cy="246" r="7" fill="#10151C" stroke="#B6E382" stroke-width="2"/>
+<circle cx="836" cy="330" r="7" fill="#B6E382"/>
+<text x="861" y="168" fill="#E4E9EF">question</text><text x="861" y="195" fill="#8494A5" font-size="13">small, testable idea</text>
+<text x="861" y="251" fill="#E4E9EF">experiment</text><text x="861" y="278" fill="#8494A5" font-size="13">baselines + evaluation</text>
+<text x="861" y="335" fill="#E4E9EF">implementation</text><text x="861" y="362" fill="#8494A5" font-size="13">code you can inspect</text>
+</g>
+</svg>

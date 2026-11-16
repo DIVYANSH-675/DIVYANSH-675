@@ -1,97 +1,55 @@
-<img src="assets/editorial/cover.png" width="100%" alt="Divyansh Gupta — Ideas into working code. AI experiments. Thoughtful software. Warm editorial artwork with architectural paper forms." />
+<img src="assets/developer-header.svg" width="100%" alt="Divyansh Gupta — machine learning and software. Python, PyTorch, TypeScript. Build, measure, understand, iterate." />
 
 <p align="center">
-  <a href="https://DIVYANSH-675.github.io/">Portfolio ↗</a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/">LinkedIn ↗</a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="mailto:divyanshgupta0704@gmail.com">Say hello ↗</a>
+  <a href="https://DIVYANSH-675.github.io/"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:divyanshgupta0704@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/DIVYANSH-675?tab=repositories">Repositories</a>
 </p>
 
-<br>
+I build **ML experiments and full-stack applications**. My current work explores risk-aware decision making, geometric learning, inverse imaging, and reasoning systems.
 
-I’m **Divyansh**. I build machine-learning experiments and software for everyday problems. I like projects where there’s something to understand deeply, something to test, and something useful to make.
+### `01` / Applications
 
-My current work explores reinforcement learning, geometric models, inverse imaging, and reasoning systems.
+**[SplitBill ↗](https://github.com/DIVYANSH-675/splitly)** &nbsp; `TypeScript` `React` `Android preview`<br>
+Shared expenses, transfers, and balances, with offline records, activity history, and PDF/XLSX exports.
 
-<br>
+**[AuraSpeak ↗](https://github.com/DIVYANSH-675/Auraspeak)** &nbsp; `Python` `FastAPI` `WebSocket`<br>
+A streaming voice pipeline connecting speech recognition, model responses, and audio playback.
 
-## Selected work
+**[LLM Council ↗](https://github.com/DIVYANSH-675/LLM-Council)** &nbsp; `Multi-agent systems`<br>
+Generate, evaluate, and combine responses from multiple agents.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 &nbsp; / &nbsp; APPLICATIONS</sub>
-<h3><a href="https://github.com/DIVYANSH-675/splitly">SplitBill ↗</a></h3>
-<p>A shared-expense app for keeping track of bills, transfers, and who owes what. Built with offline records, activity history, and PDF/XLSX exports.</p>
-<p><sub>TypeScript · React · Android preview</sub></p>
-</td>
-<td width="50%" valign="top">
-<sub>02 &nbsp; / &nbsp; REINFORCEMENT LEARNING</sub>
-<h3><a href="https://github.com/DIVYANSH-675/RiskWeave">RiskWeave ↗</a></h3>
-<p>An experiment in combining multiple risk signals for constrained RL. Includes fuzzy-capacity aggregation, navigation tasks, and seeded evaluation.</p>
-<p><sub>Python · PyTorch · Research prototype</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 &nbsp; / &nbsp; INVERSE IMAGING</sub>
-<h3><a href="https://github.com/DIVYANSH-675/AstroBridge">AstroBridge ↗</a></h3>
-<p>Exploring image recovery with conditional Brownian bridges. Synthetic imaging experiments, residual training, and ensemble diagnostics.</p>
-<p><sub>Python · PyTorch · Research prototype</sub></p>
-</td>
-<td width="50%" valign="top">
-<sub>04 &nbsp; / &nbsp; GEOMETRIC LEARNING</sub>
-<h3><a href="https://github.com/DIVYANSH-675/MoleculeMask">MoleculeMask ↗</a></h3>
-<p>Learning from masked 3D geometry through equivariant coordinate reconstruction and scalar-property prediction on synthetic data.</p>
-<p><sub>Python · PyTorch · Research prototype</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>05 &nbsp; / &nbsp; MODEL ANALYSIS</sub>
-<h3><a href="https://github.com/DIVYANSH-675/WeightScope">WeightScope ↗</a></h3>
-<p>Investigating what Transformer weights reveal about checkpoint quality, with invariant features and grouped baseline evaluation.</p>
-<p><sub>Python · Checkpoint analysis · Research prototype</sub></p>
-</td>
-<td width="50%" valign="top">
-<sub>06 &nbsp; / &nbsp; REASONING SYSTEMS</sub>
-<h3><a href="https://github.com/DIVYANSH-675/AdaptiveSolve">AdaptiveSolve ↗</a></h3>
-<p>A controller for routing arithmetic tasks between direct answers and programs, with bounded execution and inspectable repair traces.</p>
-<p><sub>Python · Program interpretation · Research prototype</sub></p>
-</td>
-</tr>
-</table>
+### `02` / Research lab
 
-<sub>Research repositories include evaluation tools, tests, and documented limitations.</sub>
+Small, inspectable prototypes with evaluation tools, tests, and documented limitations.
 
-<br>
+| Project | What it explores | Inspect |
+| :--- | :--- | :--- |
+| **[RiskWeave](https://github.com/DIVYANSH-675/RiskWeave)** | Fuzzy-capacity risk aggregation for constrained RL on navigation tasks. | [CI](https://github.com/DIVYANSH-675/RiskWeave/actions/workflows/ci.yml) |
+| **[AstroBridge](https://github.com/DIVYANSH-675/AstroBridge)** | Conditional Brownian bridges for synthetic inverse imaging and ensemble diagnostics. | [CI](https://github.com/DIVYANSH-675/AstroBridge/actions/workflows/ci.yml) |
+| **[MoleculeMask](https://github.com/DIVYANSH-675/MoleculeMask)** | Equivariant masked 3D reconstruction and scalar-property prediction on synthetic geometry. | [CI](https://github.com/DIVYANSH-675/MoleculeMask/actions/workflows/ci.yml) |
+| **[WeightScope](https://github.com/DIVYANSH-675/WeightScope)** | Invariant Transformer-weight features and grouped checkpoint-quality evaluation. | [CI](https://github.com/DIVYANSH-675/WeightScope/actions/workflows/ci.yml) |
+| **[AdaptiveSolve](https://github.com/DIVYANSH-675/AdaptiveSolve)** | Routing bounded arithmetic tasks between direct answers and programs, with repair traces. | [CI](https://github.com/DIVYANSH-675/AdaptiveSolve/actions/workflows/ci.yml) |
 
-## On the workbench
+<details>
+<summary><b>More experiments</b> — language adaptation and maritime data</summary>
 
-<img src="assets/editorial/research-desk.png" width="100%" alt="AI-generated editorial still life: a notebook with pencil sketches of graphs, a drafting ruler, and a laptop." />
+- **[FOMC GPT-2](https://github.com/DIVYANSH-675/fomc-gpt2-btp2)** — domain adaptation with financial text.
+- **[Maritime ML](https://github.com/DIVYANSH-675/ais-ml-pipeline-detection)** — anomaly analysis and ship classification using AIS data.
 
-I start with a small runnable idea, compare it with a baseline, and look closely at the failures. The next iteration should have a clear reason to exist.
+</details>
 
-A few other directions I’ve explored:
+### `03` / Toolkit
 
-- **[LLM Council](https://github.com/DIVYANSH-675/LLM-Council)** — generating, evaluating, and combining responses from multiple agents.
-- **[AuraSpeak](https://github.com/DIVYANSH-675/Auraspeak)** — streaming speech recognition, model responses, and voice playback.
-- **[Maritime ML](https://github.com/DIVYANSH-675/ais-ml-pipeline-detection)** — anomaly analysis and ship classification with AIS data.
-- **[FOMC GPT-2](https://github.com/DIVYANSH-675/fomc-gpt2-btp2)** — domain adaptation experiments with financial text.
+```python
+experiments = ["Python", "PyTorch", "NumPy", "pandas", "scikit-learn"]
+applications = ["TypeScript", "React", "FastAPI", "SQL"]
+workflow = ["Git", "Linux", "pytest", "GitHub Actions"]
+```
 
-<br>
-
-## Everyday tools
-
-**Experiments** &nbsp; Python / PyTorch / NumPy / pandas / scikit-learn<br>
-**Applications** &nbsp; TypeScript / React / FastAPI / SQL<br>
-**Workflow** &nbsp; Git / Linux / pytest / GitHub Actions
-
-<br>
+I start with a runnable baseline, examine the failures, and keep the next change measurable.
 
 ---
 
-### Have an interesting problem in mind?
-
-I’d like to hear about it. **[Get in touch ↗](mailto:divyanshgupta0704@gmail.com)**
-
-<sub>Banner and notebook artwork created with AI.</sub>
+**Have a problem worth building for?** [Let's talk ↗](mailto:divyanshgupta0704@gmail.com)
