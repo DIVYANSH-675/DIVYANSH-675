@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Divyansh Gupta. Curiosity, turned into code. Exploring machine intelligence and building useful software." />
+  <img src="assets/hero.svg" width="100%" alt="Divyansh Gupta. Curiosity, turned into code. Exploring machine intelligence and building useful software." />
 </p>
 
 <p align="center">
