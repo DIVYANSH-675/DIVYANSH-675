@@ -1,44 +1,48 @@
-<picture>
-  <source media="(max-width: 768px)" srcset="assets/developer-header-mobile.svg" />
-  <img src="assets/developer-header-v2.svg" width="100%" alt="Divyansh Gupta — AI experiments and software engineering. Python, PyTorch, TypeScript. Explore, build, test, iterate." />
-</picture>
+<picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/hero-compact.svg" /><img src="assets/workbench-v3/hero.svg" width="100%" alt="Divyansh Gupta — AI experiments and software. Curiosity, translated into code." /></picture>
 
 <p align="center">
   <a href="https://DIVYANSH-675.github.io/"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:divyanshgupta0704@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://github.com/DIVYANSH-675?tab=repositories">All repositories ↗</a>
+  <a href="https://github.com/DIVYANSH-675?tab=repositories">All code ↗</a>
 </p>
 
-I build **ML experiments and full-stack applications** — from a small runnable idea to something I can test, understand, and improve.
+I build **machine-learning experiments and useful software**. My work explores decision making, geometric models, inverse imaging, and reasoning systems.
 
-<p><a href="#01--applications">Applications ↓</a> &nbsp; · &nbsp; <a href="#02--research-lab">Research lab ↓</a> &nbsp; · &nbsp; <a href="#03--toolkit">Toolkit ↓</a></p>
+### 01 — Applications
 
-### `01` / Applications
+<a href="https://github.com/DIVYANSH-675/splitly"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/splitbill-compact.svg" /><img src="assets/workbench-v3/splitbill.svg" width="100%" alt="SplitBill: Shared expenses, settled clearly. Offline records · transfers · PDF/XLSX TypeScript / React / Android preview. Open repository." /></picture></a>
 
-<p>
-  <a href="https://github.com/DIVYANSH-675/splitly"><img src="assets/splitbill-card.svg" width="49%" alt="SplitBill — shared expenses and clear balances. React and TypeScript. Open repository." /></a>
-  <a href="https://github.com/DIVYANSH-675/Auraspeak"><img src="assets/auraspeak-card.svg" width="49%" alt="AuraSpeak — speech in, spoken answers out. FastAPI and WebSocket. Open repository." /></a>
-</p>
+<a href="https://github.com/DIVYANSH-675/Auraspeak"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/auraspeak-compact.svg" /><img src="assets/workbench-v3/auraspeak.svg" width="100%" alt="AuraSpeak: A conversation, end to end. Speech recognition → model → audio Python / FastAPI / WebSocket. Open repository." /></picture></a>
 
-- **SplitBill** — offline expense records, transfers, activity history, and PDF/XLSX exports. `Android preview`
-- **AuraSpeak** — streaming speech recognition, model responses, and audio playback.
+<a href="https://github.com/DIVYANSH-675/LLM-Council"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/council-compact.svg" /><img src="assets/workbench-v3/council.svg" width="100%" alt="LLM Council: More than one perspective. Generate, evaluate, combine responses. Multi-agent orchestration. Open repository." /></picture></a>
 
-**Also building:** [LLM Council ↗](https://github.com/DIVYANSH-675/LLM-Council) — generate, evaluate, and combine responses from multiple agents.
+### 02 — Research lab
 
-### `02` / Research lab
+Runnable prototypes with evaluation tools, tests, and documented limitations.
 
-**Decision making · Geometry · Inverse imaging · Reasoning**
+<a href="https://github.com/DIVYANSH-675/RiskWeave"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/riskweave-compact.svg" /><img src="assets/workbench-v3/riskweave.svg" width="100%" alt="RiskWeave — Fuzzy-capacity risk aggregation on navigation tasks. Open research repository." /></picture></a>
 
-Small, inspectable prototypes. Each repository includes evaluation tools, tests, and documented limitations; the CI links open the actual workflow runs.
+<a href="https://github.com/DIVYANSH-675/AstroBridge"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/astrobridge-compact.svg" /><img src="assets/workbench-v3/astrobridge.svg" width="100%" alt="AstroBridge — Conditional Brownian bridges on synthetic images. Open research repository." /></picture></a>
 
-| Project | What it explores | Inspect |
-| :--- | :--- | :--- |
-| **[RiskWeave](https://github.com/DIVYANSH-675/RiskWeave)** | Fuzzy-capacity risk aggregation for constrained RL on navigation tasks. | [CI](https://github.com/DIVYANSH-675/RiskWeave/actions/workflows/ci.yml) |
-| **[AstroBridge](https://github.com/DIVYANSH-675/AstroBridge)** | Conditional Brownian bridges for synthetic inverse imaging and ensemble diagnostics. | [CI](https://github.com/DIVYANSH-675/AstroBridge/actions/workflows/ci.yml) |
-| **[MoleculeMask](https://github.com/DIVYANSH-675/MoleculeMask)** | Equivariant masked 3D reconstruction and scalar-property prediction on synthetic geometry. | [CI](https://github.com/DIVYANSH-675/MoleculeMask/actions/workflows/ci.yml) |
-| **[WeightScope](https://github.com/DIVYANSH-675/WeightScope)** | Invariant Transformer-weight features and grouped checkpoint-quality evaluation. | [CI](https://github.com/DIVYANSH-675/WeightScope/actions/workflows/ci.yml) |
-| **[AdaptiveSolve](https://github.com/DIVYANSH-675/AdaptiveSolve)** | Routing bounded arithmetic tasks between direct answers and programs, with repair traces. | [CI](https://github.com/DIVYANSH-675/AdaptiveSolve/actions/workflows/ci.yml) |
+<a href="https://github.com/DIVYANSH-675/MoleculeMask"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/moleculemask-compact.svg" /><img src="assets/workbench-v3/moleculemask.svg" width="100%" alt="MoleculeMask — Equivariant reconstruction of masked 3D geometry. Open research repository." /></picture></a>
+
+<a href="https://github.com/DIVYANSH-675/WeightScope"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/weightscope-compact.svg" /><img src="assets/workbench-v3/weightscope.svg" width="100%" alt="WeightScope — Invariant weight features and grouped evaluation. Open research repository." /></picture></a>
+
+<a href="https://github.com/DIVYANSH-675/AdaptiveSolve"><picture><source media="(max-width: 768px)" srcset="assets/workbench-v3/adaptivesolve-compact.svg" /><img src="assets/workbench-v3/adaptivesolve.svg" width="100%" alt="AdaptiveSolve — Bounded arithmetic routing and program repair. Open research repository." /></picture></a>
+
+<details>
+<summary><b>Inspect the evaluations and CI</b></summary>
+
+These are research prototypes. The repositories document their datasets, baselines, and limitations.
+
+- [RiskWeave workflow runs](https://github.com/DIVYANSH-675/RiskWeave/actions/workflows/ci.yml)
+- [AstroBridge workflow runs](https://github.com/DIVYANSH-675/AstroBridge/actions/workflows/ci.yml)
+- [MoleculeMask workflow runs](https://github.com/DIVYANSH-675/MoleculeMask/actions/workflows/ci.yml)
+- [WeightScope workflow runs](https://github.com/DIVYANSH-675/WeightScope/actions/workflows/ci.yml)
+- [AdaptiveSolve workflow runs](https://github.com/DIVYANSH-675/AdaptiveSolve/actions/workflows/ci.yml)
+
+</details>
 
 <details>
 <summary><b>More experiments</b> — language adaptation and maritime data</summary>
@@ -48,12 +52,12 @@ Small, inspectable prototypes. Each repository includes evaluation tools, tests,
 
 </details>
 
-### `03` / Toolkit
+### 03 — Toolkit
 
 ```python
-experiments = ["Python", "PyTorch", "NumPy", "pandas", "scikit-learn"]
+experiments  = ["Python", "PyTorch", "NumPy", "pandas", "scikit-learn"]
 applications = ["TypeScript", "React", "FastAPI", "SQL"]
-workflow = ["Git", "Linux", "pytest", "GitHub Actions"]
+workflow     = ["Git", "Linux", "pytest", "GitHub Actions"]
 ```
 
 > Start with a baseline. Examine the failures. Keep the next change measurable.
