@@ -1,56 +1,59 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Divyansh Gupta — Building ideas into experiments, and experiments into useful tools." />
+  <img src="assets/header.svg" width="100%" alt="Divyansh Gupta. Curiosity, turned into code. Exploring machine intelligence and building useful software." />
 </p>
 
 <p align="center">
-  <a href="https://DIVYANSH-675.github.io/"><b>Portfolio</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
-  <a href="mailto:divyanshgupta0704@gmail.com"><b>Get in touch</b></a>
+  <a href="https://DIVYANSH-675.github.io/"><img src="assets/portfolio.svg" width="28%" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/"><img src="assets/linkedin.svg" width="28%" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:divyanshgupta0704@gmail.com"><img src="assets/contact.svg" width="28%" alt="Get in touch by email" /></a>
 </p>
 
-I build **AI/ML experiments and practical software**. My work spans constrained reinforcement learning, geometric learning, inverse imaging, and reasoning systems—with an emphasis on readable implementations, reproducible evaluation, and useful interfaces.
+<br>
 
-### Research workbench
+### A little about my work
 
-Five research prototypes exploring different questions. Each repository includes implementation details, evaluation tools, tests, and documented limitations.
+I build **AI/ML experiments and practical software**—from constrained reinforcement learning and geometric models to reasoning tools and Android apps. I care about understanding the idea, making it runnable, and testing where it breaks.
 
-| Project | The question | Inside the repository |
+<br>
+
+### Selected work &nbsp; / &nbsp; Research meets engineering
+
+Five research prototypes and one practical product. Open a card to explore the code, experiments, and documentation.
+
+<p align="center">
+  <a href="https://github.com/DIVYANSH-675/RiskWeave"><img src="assets/riskweave.svg" width="49%" alt="RiskWeave — constrained RL, fuzzy risk aggregation, and seeded evaluation." /></a>
+  <a href="https://github.com/DIVYANSH-675/AstroBridge"><img src="assets/astrobridge.svg" width="49%" alt="AstroBridge — conditional Brownian bridges for synthetic inverse imaging, with ensemble diagnostics." /></a>
+  <a href="https://github.com/DIVYANSH-675/MoleculeMask"><img src="assets/moleculemask.svg" width="49%" alt="MoleculeMask — equivariant masked-coordinate and property learning on synthetic geometry." /></a>
+  <a href="https://github.com/DIVYANSH-675/WeightScope"><img src="assets/weightscope.svg" width="49%" alt="WeightScope — Transformer checkpoint features, weight invariants, and baseline evaluation." /></a>
+  <a href="https://github.com/DIVYANSH-675/AdaptiveSolve"><img src="assets/adaptivesolve.svg" width="49%" alt="AdaptiveSolve — bounded arithmetic routing, program interpretation, and repair traces." /></a>
+  <a href="https://github.com/DIVYANSH-675/splitly"><img src="assets/splitbill.svg" width="49%" alt="SplitBill — an Android preview for shared expenses, offline records, transfers, and exports." /></a>
+</p>
+
+<sub>The research projects are exploratory implementations with documented baselines and limitations. SplitBill is available as an Android preview.</sub>
+
+<br>
+<br>
+
+### Beyond the featured six
+
+**[LLM Council](https://github.com/DIVYANSH-675/LLM-Council)** — generating, evaluating, and synthesizing multiple agents' responses.<br>
+**[AuraSpeak](https://github.com/DIVYANSH-675/Auraspeak)** — streaming speech, language-model responses, and voice playback.<br>
+**[Maritime ML](https://github.com/DIVYANSH-675/ais-ml-pipeline-detection)** — exploring anomalies and ship classification in AIS data.<br>
+**[FOMC GPT-2](https://github.com/DIVYANSH-675/fomc-gpt2-btp2)** — experimenting with domain adaptation for financial text.
+
+<br>
+
+### The toolkit
+
+| Modeling & experiments | Applications & interfaces | Engineering & validation |
 | :--- | :--- | :--- |
-| **[RiskWeave](https://github.com/DIVYANSH-675/RiskWeave)** | How can an RL agent combine multiple risk signals? | Constrained navigation, fuzzy-capacity aggregation, and seeded evaluation. |
-| **[AstroBridge](https://github.com/DIVYANSH-675/AstroBridge)** | Can a conditional bridge recover corrupted images? | Synthetic inverse imaging, residual bridge training, and ensemble diagnostics. |
-| **[MoleculeMask](https://github.com/DIVYANSH-675/MoleculeMask)** | What can a model learn from masked 3D geometry? | Equivariant coordinate learning and scalar-property prediction on synthetic data. |
-| **[WeightScope](https://github.com/DIVYANSH-675/WeightScope)** | What do a Transformer's weights reveal about its quality? | Attention-weight invariants, checkpoint features, and grouped baseline evaluation. |
-| **[AdaptiveSolve](https://github.com/DIVYANSH-675/AdaptiveSolve)** | When should a solver switch from a direct answer to a program? | Bounded arithmetic interpretation, routing, and inspectable repair traces. |
+| Python · PyTorch · NumPy | TypeScript · React · FastAPI | Git · Linux · GitHub Actions |
+| pandas · scikit-learn | SQL · Android | pytest · Reproducible runs |
 
-### Software beyond the notebook
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DIVYANSH-675/splitly">SplitBill</a></h3>
-<p>Shared bills, clearer balances. An Android expense-sharing app with offline records, transfers, activity history, and PDF/XLSX exports.</p>
-<p><sub>TypeScript · React · Android preview</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/DIVYANSH-675/LLM-Council">LLM Council</a></h3>
-<p>A multi-agent reasoning pipeline that generates alternative responses, evaluates them, and synthesizes the selected perspectives.</p>
-<p><sub>Python · LLM orchestration · Evaluation</sub></p>
-</td>
-</tr>
-</table>
+**My approach:** start small → establish a baseline → test the edge cases → document the evidence → improve.
 
-Also exploring **[streaming voice interaction](https://github.com/DIVYANSH-675/Auraspeak)**, **[maritime data analysis](https://github.com/DIVYANSH-675/ais-ml-pipeline-detection)**, and **[financial text modeling](https://github.com/DIVYANSH-675/fomc-gpt2-btp2)**.
+<br>
 
-### Tools I work with
-
-**Modeling** &nbsp; Python · PyTorch · NumPy · pandas · scikit-learn<br>
-**Applications** &nbsp; TypeScript · React · FastAPI · SQL<br>
-**Engineering** &nbsp; Git · Linux · pytest · GitHub Actions
-
-### How I build
-
-Start with a small, runnable experiment. Compare it against a baseline. Test the failure cases. Document what works, what does not, and what to try next.
-
----
-
-<p align="center"><sub>Interested in research tooling, AI systems, or a useful product? <a href="mailto:divyanshgupta0704@gmail.com">Let's connect.</a></sub></p>
+<a href="mailto:divyanshgupta0704@gmail.com"><img src="assets/footer.svg" width="100%" alt="Good questions deserve working code. Let's talk about research tooling, AI systems, and useful products." /></a>
