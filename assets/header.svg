@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Divyansh Gupta — AI, research, and software</title>
+  <desc id="desc">Building ideas into experiments, and experiments into useful tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2c"/><stop offset="1" stop-color="#080f19"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#b4ef79"/><stop offset="1" stop-color="#68cce7"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8aa7c6" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+  <rect x="46" y="45" width="30" height="3" fill="#b4ef79"/>
+  <text x="90" y="52" fill="#b4ef79" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">AI / ML · SOFTWARE · EXPERIMENTS</text>
+  <text x="46" y="145" fill="#f2f5fa" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="66" letter-spacing="-2">Divyansh Gupta</text>
+  <text x="49" y="195" fill="#bbc8d8" font-family="Arial, Helvetica, sans-serif" font-size="23">Building ideas into experiments.</text>
+  <text x="49" y="228" fill="#bbc8d8" font-family="Arial, Helvetica, sans-serif" font-size="23">And experiments into useful tools.</text>
+  <path d="M48 283H696" stroke="#2c3c50"/>
+  <text x="49" y="325" fill="#8296ae" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">LEARN DEEPLY. BUILD CAREFULLY. SHARE OPENLY.</text>
+  <g transform="translate(930 185)">
+    <circle r="132" fill="none" stroke="#283e52"/>
+    <circle r="98" fill="none" stroke="#283e52" stroke-dasharray="3 9"/>
+    <circle r="62" fill="#112836" stroke="#3b6978"/>
+    <g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".7">
+      <path d="M-114-66L0-132 114-66 114 66 0 132-114 66Z"/>
+      <path d="M-114-66L0 0 114-66M-114 66L0 0 114 66M0-132V132"/>
+      <path d="M-114-66L114 66M114-66L-114 66"/>
+    </g>
+    <g fill="#b4ef79"><circle cx="0" cy="-132" r="5"/><circle cx="-114" cy="66" r="5"/><circle cx="114" cy="66" r="5"/></g>
+    <g fill="#68cce7"><circle cx="-114" cy="-66" r="5"/><circle cx="114" cy="-66" r="5"/><circle cx="0" cy="132" r="5"/></g>
+    <circle r="36" fill="#10202d" stroke="#b4ef79"/>
+    <text y="9" text-anchor="middle" fill="#e6f7d9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">DG</text>
+  </g>
+</svg>
