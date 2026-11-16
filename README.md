@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/developer-header-mobile.svg" />
-  <img src="assets/developer-header.svg" width="100%" alt="Divyansh Gupta — AI experiments and software engineering. Python, PyTorch, TypeScript. Explore, build, test, iterate." />
+  <source media="(max-width: 768px)" srcset="assets/developer-header-mobile.svg" />
+  <img src="assets/developer-header-v2.svg" width="100%" alt="Divyansh Gupta — AI experiments and software engineering. Python, PyTorch, TypeScript. Explore, build, test, iterate." />
 </picture>
 
 <p align="center">
