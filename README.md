@@ -1,28 +1,36 @@
-<img src="assets/developer-header.svg" width="100%" alt="Divyansh Gupta — machine learning and software. Python, PyTorch, TypeScript. Build, measure, understand, iterate." />
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/developer-header-mobile.svg" />
+  <img src="assets/developer-header.svg" width="100%" alt="Divyansh Gupta — AI experiments and software engineering. Python, PyTorch, TypeScript. Explore, build, test, iterate." />
+</picture>
 
 <p align="center">
   <a href="https://DIVYANSH-675.github.io/"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/divyansh-gupta-b4396a207/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:divyanshgupta0704@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://github.com/DIVYANSH-675?tab=repositories">Repositories</a>
+  <a href="https://github.com/DIVYANSH-675?tab=repositories">All repositories ↗</a>
 </p>
 
-I build **ML experiments and full-stack applications**. My current work explores risk-aware decision making, geometric learning, inverse imaging, and reasoning systems.
+I build **ML experiments and full-stack applications** — from a small runnable idea to something I can test, understand, and improve.
+
+<p><a href="#01--applications">Applications ↓</a> &nbsp; · &nbsp; <a href="#02--research-lab">Research lab ↓</a> &nbsp; · &nbsp; <a href="#03--toolkit">Toolkit ↓</a></p>
 
 ### `01` / Applications
 
-**[SplitBill ↗](https://github.com/DIVYANSH-675/splitly)** &nbsp; `TypeScript` `React` `Android preview`<br>
-Shared expenses, transfers, and balances, with offline records, activity history, and PDF/XLSX exports.
+<p>
+  <a href="https://github.com/DIVYANSH-675/splitly"><img src="assets/splitbill-card.svg" width="49%" alt="SplitBill — shared expenses and clear balances. React and TypeScript. Open repository." /></a>
+  <a href="https://github.com/DIVYANSH-675/Auraspeak"><img src="assets/auraspeak-card.svg" width="49%" alt="AuraSpeak — speech in, spoken answers out. FastAPI and WebSocket. Open repository." /></a>
+</p>
 
-**[AuraSpeak ↗](https://github.com/DIVYANSH-675/Auraspeak)** &nbsp; `Python` `FastAPI` `WebSocket`<br>
-A streaming voice pipeline connecting speech recognition, model responses, and audio playback.
+- **SplitBill** — offline expense records, transfers, activity history, and PDF/XLSX exports. `Android preview`
+- **AuraSpeak** — streaming speech recognition, model responses, and audio playback.
 
-**[LLM Council ↗](https://github.com/DIVYANSH-675/LLM-Council)** &nbsp; `Multi-agent systems`<br>
-Generate, evaluate, and combine responses from multiple agents.
+**Also building:** [LLM Council ↗](https://github.com/DIVYANSH-675/LLM-Council) — generate, evaluate, and combine responses from multiple agents.
 
 ### `02` / Research lab
 
-Small, inspectable prototypes with evaluation tools, tests, and documented limitations.
+**Decision making · Geometry · Inverse imaging · Reasoning**
+
+Small, inspectable prototypes. Each repository includes evaluation tools, tests, and documented limitations; the CI links open the actual workflow runs.
 
 | Project | What it explores | Inspect |
 | :--- | :--- | :--- |
@@ -48,7 +56,7 @@ applications = ["TypeScript", "React", "FastAPI", "SQL"]
 workflow = ["Git", "Linux", "pytest", "GitHub Actions"]
 ```
 
-I start with a runnable baseline, examine the failures, and keep the next change measurable.
+> Start with a baseline. Examine the failures. Keep the next change measurable.
 
 ---
 

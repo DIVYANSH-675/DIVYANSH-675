@@ -1,30 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none">
-<title>Divyansh Gupta — machine learning and software</title>
-<desc>A dark code editor with Divyansh's name, technical focus, and an experiment-to-application diagram.</desc>
-<rect x="1" y="1" width="1198" height="458" rx="14" fill="#10151C" stroke="#303A46" stroke-width="2"/>
-<path d="M1 54H1199M1 418H1199" stroke="#303A46"/>
-<path d="M26 54H208" stroke="#B6E382" stroke-width="3"/>
-<g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="16">
-<text x="29" y="34" fill="#B6E382">&gt;_</text><text x="65" y="34" fill="#E4E9EF">divyansh.py</text>
-<text x="241" y="34" fill="#7E8C9B">experiments/</text><text x="420" y="34" fill="#7E8C9B">applications/</text>
-<text x="1075" y="34" fill="#A4B1BF">main</text><circle cx="1055" cy="28" r="4" fill="#B6E382"/>
-<text x="44" y="111" fill="#8494A5">01</text><text x="91" y="111" fill="#B6E382"># hello, i'm</text>
-<text x="44" y="190" fill="#8494A5">02</text>
-<text x="44" y="255" fill="#8494A5">03</text><text x="91" y="255" fill="#A7B4C2">Machine learning. Useful software.</text>
-<text x="44" y="320" fill="#8494A5">04</text><text x="91" y="320" fill="#D9AD80">Python</text><text x="165" y="320" fill="#6C7C8C"> / </text><text x="198" y="320" fill="#D9AD80">PyTorch</text><text x="284" y="320" fill="#6C7C8C"> / </text><text x="318" y="320" fill="#D9AD80">TypeScript</text>
-<text x="44" y="375" fill="#8494A5">05</text><text x="91" y="375" fill="#8494A5"># build → measure → understand → iterate</text>
-<text x="27" y="445" fill="#A4B1BF">~/DIVYANSH-675</text><text x="907" y="445" fill="#A4B1BF">research + engineering</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none">
+<title>Divyansh Gupta — AI experiments and software engineering</title>
+<desc>Dark developer workspace. Python, PyTorch, TypeScript. Explore, build, test, iterate.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#29333E"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="478" rx="16" fill="#10151C" stroke="#303A46" stroke-width="2"/>
+<path d="M1 54H1199M1 423H1199" stroke="#303A46"/>
+<path d="M24 54H215" stroke="#E7AD68" stroke-width="3"/>
+<g font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="17">
+<text x="28" y="34" fill="#E7AD68">&gt;_</text><text x="66" y="34" fill="#E5EBF1">divyansh.py</text>
+<text x="251" y="34" fill="#8D9CAA">experiments/</text><text x="435" y="34" fill="#8D9CAA">applications/</text>
+<circle cx="1082" cy="28" r="4" fill="#B6E382"/><text x="1098" y="34" fill="#B7C2CE">main</text>
 </g>
-<text x="87" y="197" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Divyansh Gupta<tspan fill="#B6E382">.</tspan></text>
-<path d="M770 89V384" stroke="#303A46"/>
-<g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="15">
-<text x="815" y="111" fill="#8494A5">THE WORKFLOW</text>
-<path d="M836 162V336" stroke="#485A69" stroke-width="2"/>
-<circle cx="836" cy="163" r="7" fill="#10151C" stroke="#B6E382" stroke-width="2"/>
-<circle cx="836" cy="246" r="7" fill="#10151C" stroke="#B6E382" stroke-width="2"/>
-<circle cx="836" cy="330" r="7" fill="#B6E382"/>
-<text x="861" y="168" fill="#E4E9EF">question</text><text x="861" y="195" fill="#8494A5" font-size="13">small, testable idea</text>
-<text x="861" y="251" fill="#E4E9EF">experiment</text><text x="861" y="278" fill="#8494A5" font-size="13">baselines + evaluation</text>
-<text x="861" y="335" fill="#E4E9EF">implementation</text><text x="861" y="362" fill="#8494A5" font-size="13">code you can inspect</text>
+<text x="48" y="111" fill="#E7AD68" font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="19"># engineer / experimenter</text>
+<text x="43" y="205" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Divyansh Gupta<tspan fill="#E7AD68">.</tspan></text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#C1CCD7">
+<text x="48" y="266">Machine learning.</text><text x="48" y="306">Software you can use.</text>
 </g>
-</svg>
+<g font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="18">
+<rect x="48" y="348" width="104" height="34" rx="6" fill="#1D2832"/><text x="64" y="371" fill="#CBD6DF">Python</text>
+<rect x="162" y="348" width="116" height="34" rx="6" fill="#1D2832"/><text x="178" y="371" fill="#CBD6DF">PyTorch</text>
+<rect x="288" y="348" width="150" height="34" rx="6" fill="#1D2832"/><text x="304" y="371" fill="#CBD6DF">TypeScript</text>
+</g>
+<rect x="764" y="79" width="410" height="322" rx="10" fill="url(#grid)"/>
+<rect x="794" y="107" width="350" height="264" rx="9" fill="#131B24" stroke="#34414F"/>
+<path d="M794 151H1144" stroke="#34414F"/>
+<g font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="17">
+<text x="815" y="135" fill="#9DADB9">EXPLORER</text><text x="1099" y="135" fill="#E7AD68">＋</text>
+<text x="815" y="187" fill="#E7AD68">⌄</text><text x="841" y="187" fill="#E7EDF3">workspace</text>
+<path d="M829 201V327M829 217H846M829 257H846M829 297H846" stroke="#4A5968"/>
+<text x="858" y="222" fill="#B6E382">research/</text><text x="858" y="262" fill="#9DBDD9">applications/</text><text x="858" y="302" fill="#E7AD68">evaluation/</text>
+<text x="815" y="347" fill="#8D9CAA">ideas → experiments → code</text>
+<text x="28" y="458" fill="#9DADB9">~/DIVYANSH-675</text><text x="701" y="458" fill="#A8B8C5">explore</text><text x="796" y="458" fill="#5E7183">/</text><text x="823" y="458" fill="#A8B8C5">build</text><text x="894" y="458" fill="#5E7183">/</text><text x="922" y="458" fill="#A8B8C5">test</text><text x="984" y="458" fill="#5E7183">/</text><text x="1011" y="458" fill="#E7AD68">iterate</text>
+</g></svg>
